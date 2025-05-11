@@ -1,7 +1,7 @@
 # Joseph Alex - Multipage Portfolio Website
 
 ## 🌐 Overview
-This project is a responsive, multipage portfolio website designed and developed by Christine Nyambwari. It demonstrates strong skills in HTML5, CSS3, and JavaScript, with complete deployment to a live server.
+This project is a responsive, multipage portfolio website designed and developed by Joseph Alex. It demonstrates strong skills in HTML5, CSS3, and JavaScript, with complete deployment to a live server.
 
 ---
 
